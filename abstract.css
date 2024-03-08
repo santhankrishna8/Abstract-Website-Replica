@@ -109,10 +109,7 @@ body .t{
     *{
         font-size: small;
     }
-    html,body{
-        overflow-x:hidden;
-        overflow-y: hidden;
-      }
+    
     .left img{
         margin-left: -7rem;
     }
