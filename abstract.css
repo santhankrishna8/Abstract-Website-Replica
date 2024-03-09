@@ -188,13 +188,14 @@ body .t{
     footer .f4 li{
         margin-left: .2rem;
     }
+    footer .f4 li .er{
+        margin-left: -.8rem;
+    }
     .c{
         margin-left: 2rem;
         font-size: small;
     }
-    .s .ar{
-
-    }
+    
     
   
  }
