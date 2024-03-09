@@ -15,6 +15,9 @@
     text-decoration: none;
     color:#fff;
 }
+.in a{
+    font-size: 2rem;margin: 0 auto;display: block;margin-top: -3rem;margin-left: 28rem;
+}
 .b1{
     border: 1px solid #fff;
     color:white;
@@ -112,10 +115,18 @@ body .t{
      .left img{
          margin-left: -7rem;
      }
+     .s h2{
+        margin-left: 5rem;
+        font-size: 2rem;
+     }
      .s .in input{
-        width:50%;
-        margin-left:7rem ;
+        width:100%;
+        margin-left:0rem ;
         margin-right: auto;
+        
+     }
+     .in a{
+        margin-left: 15rem;
         
      }
      .left a{
@@ -130,16 +141,17 @@ body .t{
      .right {
          display: flex;
          flex-direction: row;
-         margin-left: 0rem;
- 
+         margin-left: .5rem;
+         
      }
      .right .b1{
          font-size: small;
-         
+         width:8rem;
  
      }
      .right .b2{
          width: 50%;
+         margin-left: -.8rem;
      }
      .c {
          margin-left: 3rem;
@@ -152,9 +164,9 @@ body .t{
     }
     footer {
      margin-left: -11rem;
-     gap:2rem;
+     gap:1rem;
      height:30vh;
- 
+      font-size: small;
     
     }
     footer ul li{
@@ -163,5 +175,16 @@ body .t{
     footer .f5{
      display: none;
     }
+    footer .f3 li{
+        margin-left: .3rem;
+    }
+    footer .f4 li{
+        margin-left: .2rem;
+    }
+    .c{
+        margin-left: 2rem;
+        font-size: small;
+    }
+    
   
  }
