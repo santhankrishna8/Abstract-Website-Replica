@@ -127,6 +127,7 @@ body .t{
      }
      .in a{
         margin-left: 15rem;
+        margin-top: -3rem;
         
      }
      .left a{
@@ -185,6 +186,9 @@ body .t{
     .c{
         margin-left: 2rem;
         font-size: small;
+    }
+    .s .ar{
+
     }
     
   
