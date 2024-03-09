@@ -112,9 +112,11 @@ body .t{
      .left img{
          margin-left: -7rem;
      }
-     .in{
-        width:60%;
-        margin-left: -4rem;
+     .s .in input{
+        width:50%;
+        margin-left:7rem ;
+        margin-right: auto;
+        
      }
      .left a{
          font-size: 1rem;
