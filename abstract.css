@@ -166,6 +166,9 @@ body .t{
      height:235vh;
      
     }
+    footer .f4 li .e{
+        margin-left: -2rem;
+    }
     footer {
      margin-left: -11rem;
      gap:1rem;
