@@ -142,7 +142,7 @@ body .t{
      .right {
          display: flex;
          flex-direction: row;
-         margin-left: .5rem;
+         margin-left: 1rem;
          
      }
      .right .b1{
@@ -152,7 +152,7 @@ body .t{
      }
      .right .b2{
          width: 50%;
-         margin-left: -.8rem;
+         margin-left: rem;
      }
      .c {
          margin-left: 3rem;
