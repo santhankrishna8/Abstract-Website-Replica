@@ -159,10 +159,11 @@ body .t{
      .c {
          margin-left: 3rem;
          display: flex;
+         
          flex-direction: column;
      }
     body .t{
-     height:250vh;
+     height:235vh;
      
     }
     footer {
