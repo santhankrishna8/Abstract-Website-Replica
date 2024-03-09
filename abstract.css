@@ -109,7 +109,10 @@ body .t{
     *{
         font-size: small;
     }
-    
+    html{
+        height:100vh;
+
+    }
     .left img{
         margin-left: -7rem;
     }
@@ -125,7 +128,7 @@ body .t{
     .right {
         display: flex;
         flex-direction: row;
-        margin-left: 5rem;
+        margin-left: 2rem;
 
     }
     .right .b1{
