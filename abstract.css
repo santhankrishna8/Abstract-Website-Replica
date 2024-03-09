@@ -106,13 +106,9 @@ body .t{
     height:215vh;
 }
 @media screen and (max-width: 36rem)  {
-    *{
-        
-    }
-    html{
-        
-
-    }
+   .s{
+    height:30vh;
+   }
     .left img{
         margin-left: -7rem;
     }
