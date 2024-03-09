@@ -107,7 +107,7 @@ body .t{
 }
 @media screen and (max-width: 36rem)  {
     .s{
-     height:40vh;
+     height:20vh;
     }
      .left img{
          margin-left: -7rem;
