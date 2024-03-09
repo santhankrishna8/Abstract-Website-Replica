@@ -112,6 +112,9 @@ body .t{
      .left img{
          margin-left: -7rem;
      }
+     .in{
+        width:60%;
+     }
      .left a{
          font-size: 1rem;
          margin-top: auto;
